@@ -27,6 +27,8 @@ mochawesome
 ### 3. Install Selenium WebDriver
 npm install geckodriver --save-dev
 
+### 4. To run the rest
+ npm test .\test\assessmentTest.js
 
 ## Viewing the Report
 After running the tests, open the testReports/testResults.html file in your browser to view the detailed test report.
